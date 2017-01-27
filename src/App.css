@@ -1,0 +1,14 @@
+body {
+  // background-color: pink;
+}
+nav {
+
+}
+ul {
+  list-style: none;
+}
+li {
+  width: 33.3%;
+  display: inline-block;
+  text-align: center;
+}
